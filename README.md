@@ -1,7 +1,6 @@
 # CSD-Certified-Scrum-Developer-Final-Project
 CSD Certified Scrum Developer Final Project
 
-# [AppName]
 > Money, debt and taxes, explained like a human would.
 
 Nobody taught us how public debt works, why interest rates matter, or what that "buy now, pay later" button really costs. **[AppName]** is a mobile/web app that helps young people (15–25) understand public debt and manage their own money better, through short lessons, simulators and fun challenges.
