@@ -22,7 +22,7 @@ A **Divida0** torna a dívida pública e as finanças pessoais fáceis de perceb
 - 📚 **Aprender** – lições de 3 minutos sobre dívida pública, défice, impostos, poupança e crédito
 - 🧮 **Simular** – constrói um orçamento mensal e vê o resultado das tuas escolhas
 - 🎮 **Jogar** – quizzes, sequências e desafios para tornar a aprendizagem divertida
-- 📈 **Acompanhar o progresso** – vê o que já aprendeste e o que vem a seguir
+- 📈 **Acompanhar o progresso** – Vê quanto dinheiro poupaste por ano fiscal (com integração e-Fatura) e compara a variação percentual entre anos
 
 ## Para quem é
 
