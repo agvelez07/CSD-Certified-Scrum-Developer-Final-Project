@@ -15,7 +15,7 @@ Queremos mudar isso: com uma abordagem neutra, simples e prática.
 
 ## Descrição do produto
 
-A Divida0 torna a dívida pública e as finanças pessoais fáceis de perceber para pessoas dos 15 aos 25 anos. Os utilizadores aprendem com lições de 3 minutos, testam as suas decisões num simulador de orçamento mensal e mantêm-se motivados com quizzes, sequências diárias e desafios. O conteúdo é neutro, sem jargão e baseado em dados reais, para que cada pessoa veja como a dívida, os impostos e o crédito afetam a sua vida e tome melhores decisões financeiras.
+A **Divida0** torna a dívida pública e as finanças pessoais fáceis de perceber para pessoas dos 15 aos 25 anos. Os utilizadores aprendem com lições de 3 minutos, testam as suas decisões num simulador de orçamento mensal e mantêm-se motivados com quizzes, sequências diárias e desafios. O conteúdo é neutro, sem jargão e baseado em dados reais, para que cada pessoa veja como a dívida, os impostos e o crédito afetam a sua vida e tome melhores decisões financeiras.
 
 ## O que podes fazer (planeado)
 
